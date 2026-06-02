@@ -4,7 +4,7 @@
 > Pero solo si sabes leerla."*  
 > — t474_r0b07
 
-![banner](assets/hackball 1.png)
+(assets/hackball 1.png)
 ---
 ## La respuesta corta
 
