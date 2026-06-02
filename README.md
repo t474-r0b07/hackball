@@ -54,7 +54,7 @@ hackball/
 
 > `// no todos los archivos que importan están en el índice.`
 ---
-![banner](assets/gh_hackball_0.png)
+![banner](assets/gh_hackball_00.png)
 ---
 
 ## `> whoami`
