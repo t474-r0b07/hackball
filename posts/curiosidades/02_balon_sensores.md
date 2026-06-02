@@ -3,7 +3,8 @@
 > *"No confundas lo que ves con lo que hay.  
 > El balón que pateas también te está mirando."*  
 > — t474_r0b07
-
+---
+![banner](../../assets/gh_hackball_2.png)
 ---
 
 ## // ya sé lo que estás pensando.
