@@ -5,7 +5,7 @@
 > — t474_r0b07
 
 ---
-![banner](assets/hackball 1.png)
+[banner](assets/hackball 1.png)
 ---
 ## La respuesta corta
 
