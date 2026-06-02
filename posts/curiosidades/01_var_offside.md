@@ -1,4 +1,4 @@
-![banner](assets/hackball 1.png)
+![banner](assets/hackball_1.png)
 ---
 # 01 — ¿Cómo sabe el VAR que hay offside?
 
