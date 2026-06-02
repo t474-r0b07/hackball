@@ -4,7 +4,8 @@
 > *Lo llaman después. Para entender qué pasó.*  
 > *El VAR funciona igual."*  
 > — t474_r0b07
-
+---
+![banner](../../assets/gh_hackball_5.png)
 ---
 
 Después de un incidente, un investigador hace cuatro cosas:
