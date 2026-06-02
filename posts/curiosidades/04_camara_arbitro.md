@@ -3,7 +3,8 @@
 > *"No basta con saber qué pasó.*  
 > *Necesitas saber qué estaba viendo quien decidió."*  
 > — t474_r0b07
-
+---
+![banner](../../assets/gh_hackball_4.png)
 ---
 
 Ya sé lo que estás pensando.
