@@ -29,16 +29,16 @@ Nadie te lo explica porque nadie lo ve.
 
 | # | Título | Tags |
 |---|--------|------|
-| [01](posts/01_var_offside.md) | ¿Cómo sabe el VAR que hay offside? | `#vision-computacional` `#tracking` `#pose-estimation` |
-| [02](posts/02_balon_sensores.md) | El balón también tiene sensores | `#iot` `#telemetría` `#logs` |
-| [03](posts/03_camara_cable.md) | La cámara voladora no está volando | `#robótica` `#sistemas-cable` `#control` |
-| [04](posts/04_camara_arbitro.md) | La cámara del árbitro | `#forensics` `#perspectiva` `#decisión` |
-| [05](posts/05_var_forense.md) | El VAR es análisis forense digital | `#dfir` `#evidencia` `#reconstrucción` |
-| [06](posts/06_hackear_estadio.md) | ¿Puede hackearse un estadio? | `#red-team` `#attack-surface` `#iot` |
-| [07](posts/07_apuestas_datos.md) | Las apuestas son datos | `#behavioral-analysis` `#data-mining` |
-| [08](posts/08_camaras_vigilancia.md) | ¿Cuántas cámaras te observan durante un partido? | `#opsec` `#surveillance` `#osint` |
-| [09](posts/09_defensa_capas.md) | El mejor sistema defensivo del fútbol y de la seguridad | `#defense-in-depth` `#capas` |
-| [10](posts/10_delantero_pentester.md) | ¿Qué tienen en común un delantero y un pentester? | `#mindset` `#exploitation` |
+| [01](posts/curiosidades/01_var_offside.md) | ¿Cómo sabe el VAR que hay offside? | `#vision-computacional` `#tracking` `#pose-estimation` |
+| [02](posts/curiosidades/02_balon_sensores.md) | El balón también tiene sensores | `#iot` `#telemetría` `#logs` |
+| [03](posts/curiosidades/03_camara_cable.md) | La cámara voladora no está volando | `#robótica` `#sistemas-cable` `#control` |
+| [04](posts/curiosidades/04_camara_arbitro.md) | La cámara del árbitro | `#forensics` `#perspectiva` `#decisión` |
+| [05](posts/curiosidades/05_var_forense.md) | El VAR es análisis forense digital | `#dfir` `#evidencia` `#reconstrucción` |
+| [06](posts/curiosidades/06_hackear_estadio.md) | ¿Puede hackearse un estadio? | `#red-team` `#attack-surface` `#iot` |
+| [07](posts/curiosidades/07_apuestas_datos.md) | Las apuestas son datos | `#behavioral-analysis` `#data-mining` |
+| [08](posts/curiosidades/08_camaras_vigilancia.md) | ¿Cuántas cámaras te observan durante un partido? | `#opsec` `#surveillance` `#osint` |
+| [09](posts/curiosidades/09_defensa_capas.md) | El mejor sistema defensivo del fútbol y de la seguridad | `#defense-in-depth` `#capas` |
+| [10](posts/curiosidades/10_delantero_pentester.md) | ¿Qué tienen en común un delantero y un pentester? | `#mindset` `#exploitation` |
 
 ---
 
