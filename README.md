@@ -53,10 +53,10 @@ hackball/
 ```
 
 > `// no todos los archivos que importan están en el índice.`
-
----
 ---
 ![banner](assets/gh_hackball_0.png)
+---
+
 ## `> whoami`
 
 **t474_r0b07** — red teamer en formación. dev. Bolivia. 🇧🇴
