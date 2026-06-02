@@ -1,11 +1,10 @@
-![banner](hackball/assets/hackball_1.png)
----
 # 01 — ¿Cómo sabe el VAR que hay offside?
 
 > *"La información es más poderosa que la opinión.  
 > Pero solo si sabes leerla."*  
 > — t474_r0b07
-
+---
+![banner](../../assets/hackball_1.png)
 ---
 ## La respuesta corta
 
