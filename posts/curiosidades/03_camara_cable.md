@@ -2,7 +2,7 @@
 
 > *"El truco más viejo del mundo: que algo complejo parezca simple."*  
 > — t474_r0b07
----
+
 ![banner](../../assets/gh_hackball_3.png)
 ---
 
