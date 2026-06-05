@@ -4,7 +4,7 @@
 > *No automatizaron el juicio."*  
 > — t474_r0b07
 ---
-![banner](../../assets/mito-1.jpg)
+![banner](../../assets/mito-2.jpg)
 ---
 
 ⚡ FALSO
