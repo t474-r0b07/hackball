@@ -25,7 +25,7 @@ Si se rinde o no cuando el partido está perdido.
 
 ---
 
-*← [MITO 02](02_var_automatico.md) · siguiente → [MITO 04](04_jugadores_ia.md)*
+*← [MITO 02](02_var_automatico.md) · siguiente → [MITO 04](04_jugadores_ia.md) · [índice](../../README.md)*
 
 > *t474_r0b07 · [github.com/t474-r0b07](https://github.com/t474-r0b07)*  
 > `// construyo sistemas pensando en cómo romperlos.`
