@@ -228,7 +228,7 @@ Respuesta → issues del repo · título: [HACKBALL-03]
 
 - Spidercam — [sitio oficial del sistema de cámara por cables](https://www.spidercam.tv/).
 - Marginally Clever — [Cinemática inversa para SpiderCam / SkyCam](https://www.marginallyclever.com/2015/02/code-inverse-kinematics-spidercam-skycam/) (ejemplo didáctico, no documentación del firmware comercial).
-- Cable-driven parallel robots — [introducción académica y bibliografía del campo](https://link.springer.com/search?query=cable-driven+parallel+robots).
+- Cable-driven parallel robots — el artículo utiliza el campo de los robots paralelos accionados por cables como contexto de ingeniería; no atribuye al Spidercam un diseño interno específico.
 - PID control — [documentación de referencia de controladores PID, NI](https://www.ni.com/en/shop/labview/pid-theory-explained.html).
 
 </details>
