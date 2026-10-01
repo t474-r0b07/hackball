@@ -252,10 +252,7 @@ Los casos de perfilado político y la personalización comercial comparten pregu
 
 La diferencia es el objetivo declarado.
 
-Cambridge Analytica usaba los perfiles para influir votos.  
-Las plataformas de apuestas los usan para influir apuestas.
-
-El modelo matemático es el mismo.  
+Cambridge Analytica fue asociada con el perfilado de usuarios para fines políticos. Las plataformas de apuestas operan en otro contexto regulatorio y comercial: no hay base aquí para afirmar que utilicen el mismo modelo matemático ni que todas perfilen a sus clientes de esa manera.  
 El modelo **OCEAN** (los cinco grandes rasgos de personalidad) se ha utilizado en investigación psicológica y fue asociado públicamente con el trabajo de perfilado de Cambridge Analytica. Eso no demuestra que las plataformas de apuestas lo utilicen de forma generalizada ni que un rasgo aislado permita diagnosticar o predecir ludopatía.
 
 La investigación sobre juego problemático estudia múltiples factores y patrones; no corresponde convertir una correlación poblacional en un diagnóstico individual.
