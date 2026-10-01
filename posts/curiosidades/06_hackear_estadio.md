@@ -77,7 +77,8 @@ No hackearon el estadio directamente.
 Hackearon a alguien que tenía acceso al estadio.
 
 ```
-ATACANTE → proveedor_externo → VPN → red_interna → ransomware → ??
+POSIBLES VÍAS DE ENTRADA (esquema conceptual, no reconstrucción del incidente)
+proveedor / acceso remoto / credenciales → red interna → impacto operativo
 ```
 
 Eso se llama **supply chain attack**.  
@@ -255,8 +256,7 @@ Era una pista falsa deliberadamente plantada dentro del malware.
 
 Kaspersky lo llamó **"la operación de falsa bandera más sofisticada que habíamos visto"**.
 
-El análisis final que atribuyó el ataque a APT28 ruso no se basó en el código.  
-Se basó en infraestructura — servidores, dominios, patrones de operación.
+La atribución no debe presentarse como cerrada: Recorded Future mantuvo el caso sin atribuir y Kaspersky publicó su hipótesis sobre Hades/Sofacy (APT28), advirtiendo también que los indicios podían ser engañosos. Son evaluaciones de investigadores concretos, no un consenso concluyente.
 
 Eso es lo que significa hacer forense de verdad:  
 no creer lo que el artefacto quiere que creas.  
