@@ -237,11 +237,11 @@ Respuesta → issues del repo · título: [HACKBALL-06]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- NCSC UK — guías y alertas de ciberseguridad para organizaciones deportivas (consultar el informe primario antes de citar cifras)
+- NCSC UK — guías y alertas de ciberseguridad para organizaciones deportivas.
 - Olympic Destroyer analysis — Recorded Future / Kaspersky, 2018
 - English football club ransomware — NCSC UK, 2020
 - Ticketmaster breach 2024 — 1.6TB stolen via third-party vendor
-- FIFA World Cup 2026 — análisis de superficie de ataque: incluir enlace directo y fecha del informe antes de usar cifras o conclusiones
+- Los datos específicos de proveedores y superficies de ataque deben citarse con el informe original y su fecha.
 - OT & IoT Cybersecurity for Stadiums & Arenas — ICS-CERT
 
 </details>
