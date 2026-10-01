@@ -241,7 +241,6 @@ Respuesta → issues del repo · título: [HACKBALL-08]
 - FIFA — [Ciudades anfitrionas de la Copa Mundial 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/watch-host-cities-2026-world-cup-video) (organización en 16 ciudades y tres países).
 - FIFA — [Pierluigi Collina sobre las cámaras corporales de árbitros](https://inside.fifa.com/refereeing/news/pierluigi-collina-interview-ref-cam-club-world-cup-2025) (uso confirmado de cámaras POV en la competición de 2025).
 - Information Commissioner's Office (Reino Unido) — [Video surveillance guidance](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/).
-- FIFA — [Hayya / Fan ID en Qatar 2022: información oficial del torneo](https://www.fifa.com/tournaments/mens/worldcup/qatar2022) (no demuestra que exista un sistema biométrico unificado para 2026).
 - Las cifras de cámaras de Vancouver y las afirmaciones sobre reconocimiento facial, biometría o intercambio transfronterizo se excluyen como hechos hasta contar con documentos oficiales específicos.
 
 </details>
