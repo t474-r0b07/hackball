@@ -45,18 +45,10 @@ pero que todos, simultáneamente, saben que estás ahí.
 
 La organización de un torneo multinacional puede ampliar el uso de videovigilancia en estadios, fan zones, transporte y espacios de entrenamiento. No presento como hecho confirmado la cifra de **200 cámaras temporales en Vancouver** ni que esa instalación haya sido un requisito de FIFA: la referencia citada no está enlazada y necesita verificación primaria.
 
-Durante los Juegos Olímpicos de Invierno de 2010 en la misma ciudad  
-se activaron **casi 1,000 cámaras de seguridad**.  
-El RCMP instaló 900 alrededor de los venues.  
-La ciudad instaló 90 en sitios públicos del centro.
+En torno a grandes eventos deportivos suelen desplegarse sistemas temporales y permanentes de vigilancia. Para Vancouver 2010 circulan cifras sobre cámaras instaladas por distintos organismos, pero no las reproduzco aquí sin una fuente primaria accesible que permita distinguir instalaciones, operadores y periodos de funcionamiento.
 
-Pregunta oficial de CBC News al RCMP:  
-*¿esas 900 cámaras siguen operando?*
-
-Respuesta del RCMP: sin comentarios.
-
-> `// los sistemas de vigilancia temporal`  
-> `// rara vez son temporales.`
+> `// una cámara puede ser temporal.`  
+> `// la infraestructura y sus datos pueden permanecer.`
 
 En Seattle, a días del inicio del Mundial,  
 el concejal Bob Kettle acusó a la alcaldesa de violar la ley municipal  
@@ -262,10 +254,7 @@ Respuesta → issues del repo · título: [HACKBALL-08]
 **El problema de la cámara de Londres.**
 
 Para los Juegos Olímpicos de 2012, Londres agregó miles de cámaras CCTV.  
-Ya era la ciudad más vigilada de Europa — con más cámaras per cápita que cualquier otra capital occidental.
-
-Un estudio del año siguiente determinó que la mayoría de las cámaras instaladas para los Juegos  
-seguían operando — pero sin protocolo claro de supervisión.
+La comparación de Londres con otras capitales y la afirmación sobre la continuidad de las cámaras olímpicas requieren estudios específicos y comparables. Sin esa referencia, no las presento como hechos establecidos.
 
 El problema no era que las cámaras existieran.  
 El problema era que nadie tenía claro quién era responsable de qué hacía con el footage.
