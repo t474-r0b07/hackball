@@ -29,7 +29,7 @@ Y aun así perdió.
 
 ---
 
-*← [índice de mitos](README.md) · siguiente → [MITO 02](02_var_automatico.md)*
+*← [índice de mitos](README.md) · siguiente → [MITO 02](02_var_automatico.md) · [índice](../../README.md)*
 
 > *t474_r0b07 · [github.com/t474-r0b07](https://github.com/t474-r0b07)*  
 > `// construyo sistemas pensando en cómo romperlos.`
