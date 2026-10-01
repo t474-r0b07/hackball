@@ -314,7 +314,7 @@ La física no.
 
 ---
 
-*← [01 — ¿Cómo sabe el VAR que hay offside?](01_var_offside.md) · siguiente → [03 — La cámara voladora no está volando](03_camara_cable.md)*
+*← [01 — ¿Cómo sabe el VAR que hay offside?](01_var_offside.md) · siguiente → [03 — La cámara voladora no está volando](03_camara_cable.md) · [índice](../../README.md)*
 
 ---
 
