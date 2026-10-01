@@ -158,7 +158,7 @@ El offside se mide en el momento del contacto con el balón — no cuando el del
 
 Ese momento se llama **kick point**.
 
-Para detectarlo con precisión milimétrica, el balón oficial (Adidas Al Rihla en Qatar 2022, Fussballliebe en Euro 2024) lleva embebida una **IMU** — *Inertial Measurement Unit* — una unidad de medición inercial.
+Para identificar con mayor precisión el instante del contacto, el balón oficial (Adidas Al Rihla en Qatar 2022 y los balones conectados utilizados en torneos posteriores) incorpora una **IMU** — *Inertial Measurement Unit* — una unidad de medición inercial. La frecuencia de muestreo no debe confundirse con una garantía de precisión espacial milimétrica.
 
 La IMU contiene:
 - **Acelerómetro** de 3 ejes — mide aceleración lineal
