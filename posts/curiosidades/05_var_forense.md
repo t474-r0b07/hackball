@@ -232,7 +232,7 @@ Respuesta → issues del repo · título: [HACKBALL-05]
 <details>
 <summary><code>// lore relacionado</code></summary>
 
-**El primer caso documentado de evidencia digital fue en 1986.**
+**Uno de los casos tempranos y conocidos de investigación de intrusiones documentadas es el que Cliff Stoll describió a partir de 1986.**
 
 Cliff Stoll — astrónomo del Lawrence Berkeley National Laboratory —  
 detectó un error de contabilidad de **75 centavos** en los registros de uso del sistema.
@@ -246,7 +246,7 @@ Stoll no era investigador de seguridad.
 No tenía herramientas forenses. No existían.  
 Usó impresoras de papel térmico para registrar cada conexión en tiempo real.
 
-Ese papel térmico fue la primera cadena de custodia digital de la historia.
+Los registros impresos ayudaron a reconstruir la actividad y conservar una cronología. No equivalen, por sí solos, a una cadena de custodia digital formal.
 
 Stoll documentó todo en su libro *The Cuckoo's Egg* (1989).  
 Es lectura obligatoria.
