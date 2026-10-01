@@ -212,11 +212,10 @@ Respuesta → issues del repo · título: [HACKBALL-04]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- FIFA Club World Cup 2025 Referee Cams — [cbssports.com](https://www.cbssports.com/soccer/news/fifa-club-world-cup-referees-to-wear-body-cameras-for-32-team-tournament-to-improve-broadcast-officiating/)
-- Collina interview — [inside.fifa.com](https://inside.fifa.com/news/pierluigi-collina-interview-ref-cam-club-world-cup-2025)
-- Restricción de transmisión — [aljazeera.com](https://www.aljazeera.com/sports/2025/6/12/whats-new-at-the-fifa-club-world-cup-2025-body-cams-keeper-timeouts-ai)
-- Digital Forensics Event Reconstruction — Carrier & Spafford, CERIAS TR 2004-53
-- Razonabilidad en derecho — estándar del "hombre razonable", common law
+- FIFA — [Pierluigi Collina: las cámaras corporales de los árbitros superaron las expectativas](https://inside.fifa.com/refereeing/news/pierluigi-collina-interview-ref-cam-club-world-cup-2025) (prueba en el Mundial de Clubes 2025).
+- CBS Sports — [Árbitros utilizarán cámaras corporales en el Mundial de Clubes 2025](https://www.cbssports.com/soccer/news/fifa-club-world-cup-referees-to-wear-body-cameras-for-32-team-tournament-to-improve-broadcast-officiating/).
+- Al Jazeera — [Novedades del Mundial de Clubes 2025: cámaras corporales y tecnología](https://www.aljazeera.com/sports/2025/6/12/whats-new-at-the-fifa-club-world-cup-2025-body-cams-keeper-timeouts-ai).
+- Fricker, Miranda — [Epistemic Injustice: Power and the Ethics of Knowing](https://global.oup.com/academic/product/epistemic-injustice-9780198237907) (marco filosófico; su aplicación al punto de vista arbitral es una interpretación del artículo).
 
 </details>
 
