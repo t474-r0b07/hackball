@@ -272,7 +272,7 @@ Buscar lo que no puede mentir.
 
 ---
 
-*← [05 — El VAR es análisis forense digital](05_var_forense.md) · siguiente → [07 — Las apuestas son datos](07_apuestas_datos.md)*
+*← [05 — El VAR es análisis forense digital](05_var_forense.md) · siguiente → [07 — Las apuestas son datos](07_apuestas_datos.md) · [índice](../../README.md)*
 
 ---
 
