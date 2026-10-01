@@ -20,8 +20,8 @@ Después de un incidente, un investigador hace cuatro cosas:
 En fútbol lo llaman VAR.  
 En ciberseguridad lo llaman DFIR.
 
-No es una metáfora.  
-Es el mismo proceso con distinto vocabulario.
+Es una analogía útil, no una equivalencia técnica.  
+Ambos procesos recopilan y examinan información, pero tienen objetivos, protocolos y autoridades diferentes.
 
 ---
 
@@ -219,11 +219,11 @@ Respuesta → issues del repo · título: [HACKBALL-05]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- DFIR methodology — NIST IR 8428
-- DFIR phases — Fortinet, Rapid7, SentinelOne (2025)
-- VAR decision time reduction — ESPN, InfoTech Sports
-- SAOT accuracy — FIFA Club World Cup 2025 data
-- Chain of custody — SWGDE Best Practices for Digital Evidence
+- NIST — [NISTIR 8428: Digital Forensics and Incident Response Framework for Operational Technology](https://doi.org/10.6028/NIST.IR.8428).
+- NIST — [NISTIR 8387: Digital Evidence Preservation](https://doi.org/10.6028/NIST.IR.8387).
+- NIST — [Digital Investigation Techniques: A Scientific Foundation Review](https://www.nist.gov/publications/digital-investigation-techniques-nist-scientific-foundation-review).
+- FIFA — [Tecnología semiautomatizada de fuera de juego](https://inside.fifa.com/es/innovation/world-cup-2022/semi-automated-offside-technology) (explica qué automatiza y qué sigue validando el equipo arbitral).
+- SWGDE — [Documentos y buenas prácticas para evidencia digital](https://www.swgde.org/documents/).
 
 </details>
 
