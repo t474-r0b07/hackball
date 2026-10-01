@@ -113,7 +113,12 @@ Nadie te lo explica porque nadie lo ve.
 
 ### ⚡ Mitos
 
+- [MITO 01 — La IA predice el fútbol](posts/mitos/01_ia_predice.md)
 - [MITO 02 — El VAR es totalmente automático](posts/mitos/02_var_automatico.md)
+- [MITO 03 — Los datos reemplazan a los ojeadores](posts/mitos/03_ojeadores.md)
+- [MITO 04 — Los jugadores pueden ser evaluados por IA](posts/mitos/04_jugadores_ia.md)
+- [MITO 05 — La tecnología elimina la incertidumbre](posts/mitos/05_incertidumbre.md)
+- [MITO 06 — Las estadísticas predicen al portero](posts/mitos/06_portero_estadisticas.md)
 
 <br>
 
@@ -125,10 +130,8 @@ Nadie te lo explica porque nadie lo ve.
 hackball/
 ├── README.md
 ├── posts/
-│   ├── curiosidades/   → 🔴 artículos técnicos y análisis.
-│   ├── mitos/          → ⚡ piezas breves para separar automatización de mito.
-│   └── (lore)           → 🟣 contexto integrado en los artículos.
-├── (challenges)        → 🟡 retos integrados al final de algunos artículos.
+│   ├── curiosidades/   → artículos técnicos y análisis.
+│   └── mitos/          → piezas breves para separar automatización de mito.
 └── assets/             → banners y recursos visuales
 
 Lore y challenges aparecen integrados en los artículos; no son directorios independientes.
