@@ -286,11 +286,11 @@ Muestra el cálculo. El resultado sin proceso no cuenta.
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- KINEXON Ball Tracking — [kinexon-sports.com/products/xball](https://kinexon-sports.com/products/xball/)
-- Adidas Al Rihla Connected Ball — [news.adidas.com](https://news.adidas.com/football/adidas-reveals-the-first-fifa-world-cup--official-match-ball-featuring-connected-ball-technology/s/cccb7187-a67c-4166-b57d-2b28f1d36fa0)
-- KINEXON UWB Technology — [kinexon.com/technology/player-tracking](https://kinexon.com/technology/player-tracking/index.html)
-- UWB Time of Flight fundamentals — IEEE 802.15.4a standard
-- IMU sensor fusion — Mahony filter, Madgwick filter (open source implementations)
+- FIFA — [Tecnología del balón conectado](https://inside.fifa.com/innovation/innovating-the-game/connected-ball-technology).
+- adidas — [Al Rihla: primer balón oficial de un Mundial con tecnología connected ball](https://news.adidas.com/football/adidas-reveals-the-first-fifa-world-cup--official-match-ball-featuring-connected-ball-technology/s/cccb7187-a67c-4166-b57d-2b28f1d36fa0).
+- KINEXON — [xBall: seguimiento y datos del balón](https://kinexon-sports.com/products/xball/).
+- KINEXON — [Tecnología UWB para seguimiento](https://kinexon.com/technology/player-tracking/index.html).
+- FIFA — [Tecnología semiautomatizada de fuera de juego en Qatar 2022](https://inside.fifa.com/innovation/world-cup-2022/semi-automated-offside-technology) (especificaciones del sistema de aquel torneo).
 
 </details>
 
