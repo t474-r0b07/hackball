@@ -58,10 +58,7 @@ COMUNICACIONES      → radios digitales del personal de seguridad.
                       coordinación con policía y emergencias.
 ```
 
-El NCSC del Reino Unido auditó organizaciones deportivas y encontró que el **56% de los sistemas CCTV, pagos y torniquetes** tenían acceso remoto habilitado para terceros.
-
-No como vulnerabilidad.  
-Como feature.
+Los informes de ciberseguridad sobre organizaciones deportivas advierten sobre el acceso remoto de proveedores y terceros a sistemas operativos. Sin una referencia primaria que permita comprobar el universo auditado y el denominador, retiro el porcentaje del **56%**: el riesgo existe, pero esa cifra no debe presentarse como estadística general.
 
 > `// el mayor riesgo no siempre es el atacante externo.`  
 > `// a veces es el técnico de mantenimiento con credenciales compartidas.`
@@ -105,8 +102,7 @@ Resultado en tiempo real:
 - Miles de personas no podían imprimir sus tickets para la ceremonia
 
 El malware fue diseñado para parecer obra de Corea del Norte.  
-El análisis forense posterior determinó que era obra de **APT28** — inteligencia militar rusa —  
-en represalia por la prohibición de Rusia en esos juegos.
+Investigaciones posteriores atribuyeron el ataque a actores vinculados con **Rusia / APT28**, aunque la atribución en ciberseguridad se construye con indicadores técnicos y de inteligencia y debe presentarse como conclusión atribuida a los investigadores, no como una certeza derivada únicamente del malware.
 
 Falsa bandera en un ciberataque a un evento deportivo.
 
@@ -115,9 +111,9 @@ Falsa bandera en un ciberataque a un evento deportivo.
 
 ---
 
-### Mundial 2026 — la superficie de ataque más grande de la historia
+### Mundial 2026 — una superficie de ataque distribuida
 
-El Mundial 2026 no es un evento. Son **16 ciudades, 3 países, 4 zonas horarias**.
+La edición de 2026 se organizó en **16 ciudades de tres países**. Esa escala multinacional distribuye operaciones, proveedores y servicios entre distintos entornos. La cantidad de zonas horarias no es el punto central del análisis.
 
 Cada ciudad contrata independientemente:
 - operaciones del estadio
@@ -241,11 +237,11 @@ Respuesta → issues del repo · título: [HACKBALL-06]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- NCSC UK Sports Cyber Threat — 56% remote access finding, 2020
+- NCSC UK — guías y alertas de ciberseguridad para organizaciones deportivas (consultar el informe primario antes de citar cifras)
 - Olympic Destroyer analysis — Recorded Future / Kaspersky, 2018
 - English football club ransomware — NCSC UK, 2020
 - Ticketmaster breach 2024 — 1.6TB stolen via third-party vendor
-- FIFA World Cup 2026 attack surface — Unit 42, Palo Alto Networks, 2026
+- FIFA World Cup 2026 — análisis de superficie de ataque: incluir enlace directo y fecha del informe antes de usar cifras o conclusiones
 - OT & IoT Cybersecurity for Stadiums & Arenas — ICS-CERT
 
 </details>
