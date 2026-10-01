@@ -27,7 +27,7 @@ No más predecible.
 
 ---
 
-*← [MITO 04](04_jugadores_ia.md) · siguiente → [MITO 06](06_portero_estadisticas.md)*
+*← [MITO 04](04_jugadores_ia.md) · siguiente → [MITO 06](06_portero_estadisticas.md) · [índice](../../README.md)*
 
 > *t474_r0b07 · [github.com/t474-r0b07](https://github.com/t474-r0b07)*  
 > `// construyo sistemas pensando en cómo romperlos.`
