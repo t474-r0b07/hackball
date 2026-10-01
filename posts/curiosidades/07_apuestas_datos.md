@@ -93,10 +93,7 @@ features = [
 
 ### 2. Detección de patrones de riesgo
 
-El mismo modelo que detecta ludopatía en desarrollo  
-es el que optimiza la retención de usuarios rentables.
-
-No es contradicción. Es el mismo algoritmo con dos objetivos distintos según quién lo usa.
+Los mismos tipos de señales conductuales pueden utilizarse para fines distintos: detectar patrones compatibles con juego problemático o segmentar usuarios para optimizar retención. Eso no demuestra que una plataforma concreta use el mismo modelo para ambas tareas.
 
 ```python
 # Señales de alerta temprana — patrón de pérdida compulsiva:
@@ -237,7 +234,7 @@ Respuesta → issues del repo · título: [HACKBALL-07]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- Sports betting market — $95B en 2024, proyección $182B 2030
+- Tamaño del mercado de apuestas deportivas — retirar cifras hasta enlazar un informe con definición de mercado, moneda, cobertura geográfica y metodología
 - ML en detección de ludopatía — PMC / NIH, 2024
 - Dark patterns en plataformas de apuestas — Newall et al., 2020
 - UEBA framework — Gartner, 2023
@@ -253,8 +250,7 @@ Respuesta → issues del repo · título: [HACKBALL-07]
 
 **Cambridge Analytica no inventó nada nuevo.**
 
-Lo que hizo en 2016 — construir perfiles psicológicos a partir de comportamiento digital para influir decisiones —  
-es exactamente lo que la industria de apuestas lleva haciendo desde que existen apps móviles.
+Los casos de perfilado político y la personalización comercial comparten preguntas sobre inferencia, consentimiento y uso de datos. No son, sin embargo, el mismo sistema ni permiten afirmar que toda la industria de apuestas replique el método de Cambridge Analytica.
 
 La diferencia es el objetivo declarado.
 
@@ -262,14 +258,9 @@ Cambridge Analytica usaba los perfiles para influir votos.
 Las plataformas de apuestas los usan para influir apuestas.
 
 El modelo matemático es el mismo.  
-**OCEAN** — Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism —  
-el modelo de personalidad de cinco factores que usó Cambridge Analytica  
-tiene correlaciones documentadas con patrones de comportamiento en apuestas.
+El modelo **OCEAN** (los cinco grandes rasgos de personalidad) se ha utilizado en investigación psicológica y fue asociado públicamente con el trabajo de perfilado de Cambridge Analytica. Eso no demuestra que las plataformas de apuestas lo utilicen de forma generalizada ni que un rasgo aislado permita diagnosticar o predecir ludopatía.
 
-Neuroticism alto — tendencia a la ansiedad y la impulsividad —  
-es uno de los predictores más fuertes de ludopatía.
-
-Y es exactamente el perfil que un sistema de retención quiere identificar primero.
+La investigación sobre juego problemático estudia múltiples factores y patrones; no corresponde convertir una correlación poblacional en un diagnóstico individual.
 
 </details>
 
