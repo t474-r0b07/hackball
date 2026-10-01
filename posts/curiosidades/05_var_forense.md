@@ -262,7 +262,7 @@ Pero el principio es el mismo que él inventó con papel de impresora:
 
 ---
 
-*← [04 — La cámara del árbitro](04_camara_arbitro.md) · siguiente → [06 — ¿Puede hackearse un estadio?](06_hackear_estadio.md)*
+*← [04 — La cámara del árbitro](04_camara_arbitro.md) · siguiente → [06 — ¿Puede hackearse un estadio?](06_hackear_estadio.md) · [índice](../../README.md)*
 
 ---
 
