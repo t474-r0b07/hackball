@@ -25,7 +25,7 @@ ya se tiró al lado equivocado.
 
 ---
 
-*← [MITO 05](05_incertidumbre.md) · siguiente → [MITO 07](07_lesiones_gps.md)*
+*← [MITO 05](05_incertidumbre.md) · siguiente → [MITO 07](07_lesiones_gps.md) · [índice](../../README.md)*
 
 > *t474_r0b07 · [github.com/t474-r0b07](https://github.com/t474-r0b07)*  
 > `// construyo sistemas pensando en cómo romperlos.`
