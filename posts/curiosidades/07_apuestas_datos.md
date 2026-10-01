@@ -235,7 +235,7 @@ Respuesta → issues del repo · título: [HACKBALL-07]
 
 - Gambling Commission (Reino Unido) — [2024 Gambling Survey for Great Britain](https://www.gamblingcommission.gov.uk/news/article/2024-gambling-survey-for-great-britain) (participación y consecuencias del juego; no mide el mercado mundial).
 - Gambling Commission — [Research and statistics](https://www.gamblingcommission.gov.uk/statistics-and-research) (datos y estudios oficiales del regulador británico).
-- Newall et al. — [Investigación sobre diseño de productos y riesgos del juego](https://scholar.google.com/scholar?q=Newall+dark+patterns+gambling+2020) (referencia para localizar el trabajo académico citado; no prueba que todas las plataformas utilicen los mismos modelos).
+- Gambling Commission — [Customer interaction guidance for remote gambling licensees](https://www.gamblingcommission.gov.uk/licensees-and-businesses/guide/page/customer-interaction-guidance-for-remote-gambling-licensees) (orientación regulatoria sobre identificación e interacción con clientes en riesgo; no afirma que todos los operadores utilicen IA).
 - Los importes globales de mercado se omiten hasta disponer de una fuente con metodología, moneda, cobertura geográfica y definición de “apuestas deportivas”.
 - Los ejemplos de clustering y scoring del artículo son esquemas ilustrativos, no una descripción verificada del funcionamiento interno de operadores concretos.
 
