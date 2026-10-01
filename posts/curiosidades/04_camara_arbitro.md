@@ -250,7 +250,7 @@ Es un intento de corregir ese sesgo.
 
 ---
 
-*← [03 — La cámara voladora no está volando](03_camara_cable.md) · siguiente → [05 — El VAR es análisis forense digital](05_var_forense.md)*
+*← [03 — La cámara voladora no está volando](03_camara_cable.md) · siguiente → [05 — El VAR es análisis forense digital](05_var_forense.md) · [índice](../../README.md)*
 
 ---
 
