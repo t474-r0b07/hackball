@@ -32,7 +32,7 @@ Sobre el campo. Sobre los jugadores. Sobre 80,000 personas.
 No hay sistema de redundancia que haga eso aceptable.
 
 **Interferencia RF.** Un estadio lleno genera una nube de radiofrecuencia de decenas de miles de teléfonos, radios de seguridad, sistemas de transmisión.  
-El control inalámbrico de un dron en ese ambiente es una ruleta rusa.
+El control inalámbrico de un dron en ese entorno tendría que gestionar interferencias, congestión de espectro y requisitos de fiabilidad; no significa que todo enlace vaya a fallar, pero sí que exige planificación y redundancia.
 
 **Video.** La transmisión inalámbrica de video en 4K introduce latencia y compresión.  
 Los broadcasters necesitan señal limpia, sin cortes, sin artefactos.
@@ -250,8 +250,7 @@ Leibniz y Huygens llegaron a la misma solución el mismo año, de forma independ
 y = a × cosh(x/a)
 ```
 
-Esa ecuación vive en el firmware de los winches del Spidercam.  
-Cada toma aérea que ves en un partido la ejecuta sin que nadie lo sepa.
+La ecuación de la catenaria ayuda a describir la geometría del cable. Es una forma de entender el problema mecánico del sistema; no afirmo que una implementación concreta de Spidercam la ejecute literalmente en el firmware de sus winches.
 
 El conocimiento no caduca.  
 Solo cambia de contexto.
