@@ -247,9 +247,9 @@ Respuesta → issues del repo · título: [HACKBALL-08]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- Vancouver CCTV Mundial 2026 — añadir enlace directo a la nota de CBC y comprobar que respalde la cifra y el vínculo con FIFA
+- La cifra de cámaras temporales en Vancouver se retiró al no contar con una fuente primaria enlazada.
 - Seattle CCTV debate — KOMO News, mayo-junio 2026
-- Biométricos en estadios Mundial 2026 — añadir fuente primaria que documente el sistema y el intercambio de datos antes de presentarlo como hecho
+- No se afirma un sistema biométrico transfronterizo unificado sin documentación oficial que lo respalde.
 - FIFA Digital Fan ID — inside.fifa.com
 - AI video analytics en estadios — Intellisee, junio 2026
 - OPSEC framework — NSA Operations Security guidelines
