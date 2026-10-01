@@ -125,12 +125,13 @@ Nadie te lo explica porque nadie lo ve.
 hackball/
 ├── README.md
 ├── posts/
-│   ├── curiosidades/   → 🔴 técnicas. una por día.
-│   ├── mitos/          → ⚡ cortos. demoledores. sin hype.
-│   └── lore/           → 🟣 profundo. historia real detrás de cada sistema.
-├── (challenges)          → 🟡 retos integrados al final de algunos artículos.
-└── assets/
-    └── banners/
+│   ├── curiosidades/   → 🔴 artículos técnicos y análisis.
+│   ├── mitos/          → ⚡ piezas breves para separar automatización de mito.
+│   └── (lore)           → 🟣 contexto integrado en los artículos.
+├── (challenges)        → 🟡 retos integrados al final de algunos artículos.
+└── assets/             → banners y recursos visuales
+
+Lore y challenges aparecen integrados en los artículos; no son directorios independientes.
 ```
 
 ![banner](assets/gh_hackball_00.png)
