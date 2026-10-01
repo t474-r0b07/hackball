@@ -19,7 +19,7 @@ Y hay una diferencia enorme entre saber y calcular.
 ## El problema real
 
 El offside parece simple:  
-si alguna parte de tu cuerpo que puede hacer gol está más cerca de la línea de meta que el último defensor en el momento del pase — estás en offside.
+si una parte del cuerpo con la que se puede jugar legalmente el balón está más cerca de la línea de meta que el balón y el penúltimo adversario, en el momento en que un compañero juega o toca el balón, puede existir posición de fuera de juego. La infracción depende además de la participación activa.
 
 Una línea. Dos posiciones. Un instante.
 
@@ -64,15 +64,12 @@ Cada eslabón importa. Si uno falla, el sistema falla.
 
 ## Capa 1 — Las cámaras
 
-En Qatar 2022, FIFA instaló **12 cámaras dedicadas** montadas debajo del techo de cada estadio.  
-No son las cámaras de transmisión. Son exclusivamente para tracking.
+En Qatar 2022, FIFA describió una configuración de **12 cámaras dedicadas** bajo la cubierta de cada estadio.  
+No eran las cámaras de transmisión: se utilizaban para el seguimiento de jugadores.
 
 Estas cámaras capturan a **50 frames por segundo** — es decir, una imagen cada 20 milisegundos.
 
-¿Por qué 50 fps y no más?  
-Porque el sistema necesita procesar cada frame en tiempo real.  
-Más resolución temporal = más carga computacional = más latencia.  
-50 fps es el balance entre precisión y velocidad de respuesta.
+La frecuencia de captura documentada para ese sistema fue de 50 fps. No conviene atribuir esa elección a una razón concreta de coste o latencia sin una explicación técnica publicada por FIFA.
 
 > En la Euro 2024 y sistemas Tracab certificados por FIFA, esto escala a **10 cámaras especializadas** con modelos de seguimiento más eficientes. El número varía — el principio no.
 
@@ -100,7 +97,7 @@ Trackea **qué parte de su cuerpo** está en cada posición.
 
 Eso se llama **pose estimation** — estimación de pose corporal.
 
-El sistema mapea **29 keypoints** por jugador:
+FIFA describe el seguimiento de **29 puntos de datos** del cuerpo por jugador. La documentación pública no permite asumir que la arquitectura interna sea idéntica a un modelo académico concreto de pose estimation:
 - hombros
 - codos
 - muñecas
@@ -146,7 +143,7 @@ keypoint_position = argmax(confidence_map[k])
 2. Luego estima los keypoints dentro de ese bounding box
 3. Más eficiente en tiempo real, más preciso cuando hay oclusiones parciales
 
-FIFA no publica su código. Pero el sistema SAOT opera sobre los mismos principios — redes neuronales entrenadas específicamente en imágenes de fútbol, con 29 puntos en lugar de los 33 de MediaPipe o los 25 de OpenPose estándar.
+FIFA no publica el código ni todos los detalles de implementación. OpenPose y MediaPipe sirven aquí como referencias didácticas de pose estimation; no hay base para afirmar que SAOT use esas arquitecturas o que sus puntos sean directamente comparables.
 
 La diferencia entre 25 y 29 puntos no es menor: esos 4 puntos extra son extremidades específicas que determinan si el hombro de un delantero está o no en offside por 2 centímetros.
 
@@ -170,7 +167,7 @@ La IMU contiene:
 
 Esta combinación de sensores se llama **sistema IMU 6-DOF** (6 degrees of freedom) o **9-DOF** si incluye magnetómetro.
 
-El sensor transmite datos a la sala de operaciones de video **500 veces por segundo** — 500 Hz.
+Según la descripción del sistema empleado en Qatar 2022, el sensor transmitía datos a **500 Hz**. La frecuencia concreta corresponde a esa configuración, no necesariamente a todos los balones o torneos.
 
 Cuando el balón recibe un impacto, la IMU detecta un pico brusco de aceleración:
 
@@ -190,7 +187,7 @@ valor
             (t = 0.002s de incertidumbre)
 ```
 
-Ese pico — combinado con la posición del balón en el mismo instante — define el kick point con una incertidumbre de **menos de 3 cm**.
+Ese pico, combinado con la posición del balón, ayuda a identificar el instante de contacto. La cifra de incertidumbre espacial inferior a 3 cm no queda suficientemente respaldada por las referencias enlazadas aquí, por lo que no la presento como especificación verificada.
 
 ---
 
@@ -233,7 +230,7 @@ Cuando el sistema detecta offside, genera automáticamente:
 1. Una **alerta** para el VAR
 2. Una **animación 3D** con los datos exactos — visible en pantallas del estadio
 
-La decisión de 70 segundos promedio del VAR manual pasó a **23 segundos** con SAOT.
+FIFA y otras comunicaciones institucionales han destacado una reducción del tiempo de revisión con SAOT. No mantengo aquí la comparación exacta de 70 a 23 segundos porque la referencia enlazada no permite verificar que sea una media comparable y generalizable.
 
 ---
 
@@ -251,8 +248,8 @@ Las responde el árbitro.
 
 Y ahí — exactamente ahí — está el límite entre lo que puede automatizarse y lo que no.
 
-Un sistema puede calcular posiciones con precisión submilimétrica.  
-No puede calcular **intención**.
+Un sistema puede estimar posiciones con gran precisión, dentro de los límites de sus sensores y modelos.  
+No puede resolver por sí solo todas las cuestiones de **participación e interferencia** que exige el reglamento.
 
 ---
 
@@ -275,8 +272,8 @@ Y si ese día llega — ¿qué rol queda para el árbitro?
 El sistema SAOT procesa datos del balón a 500 Hz.
 Las cámaras de tracking operan a 50 fps.
 
-Entre un frame de cámara y el siguiente,
-el sensor IMU envió exactamente N lecturas.
+En una ventana de 20 milisegundos, suponiendo una captura constante de 500 Hz,
+el sensor IMU enviaría N lecturas.
 
 ¿Cuánto es N?
 
@@ -319,7 +316,7 @@ Así funciona casi siempre.
 
 ---
 
-*← [índice](../README.md) · siguiente → [02 — El balón también tiene sensores](02_balon_sensores.md)*
+*← [índice](../../README.md) · siguiente → [02 — El balón también tiene sensores](02_balon_sensores.md)*
 
 ---
 
