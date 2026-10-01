@@ -186,11 +186,7 @@ Lo propagó como doctrina.
 
 Hoy es el modelo base de cualquier arquitectura de seguridad seria.
 
-Pero la idea tiene más de dos mil años.  
-El ejército bizantino la usaba en el siglo VI.  
-En la Batalla de Cowpens en 1781, las fuerzas americanas  
-posicionaron tres líneas deliberadas que absorbieron la carga británica  
-hasta que los atacantes perdieron cohesión.
+La defensa en profundidad tiene antecedentes militares en distintas épocas, pero no conviene presentarla como una doctrina idéntica y continua desde Bizancio hasta la ciberseguridad moderna. La batalla de Cowpens (1781) puede servir como ejemplo de uso táctico de líneas sucesivas, no como prueba de un origen histórico directo del concepto.
 
 Tres líneas imperfectas derrotaron a una fuerza superior.
 
