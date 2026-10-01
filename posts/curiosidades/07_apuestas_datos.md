@@ -266,7 +266,7 @@ La investigación sobre juego problemático estudia múltiples factores y patron
 
 ---
 
-*← [06 — ¿Puede hackearse un estadio?](06_hackear_estadio.md) · siguiente → [08 — ¿Cuántas cámaras te observan durante un partido?](08_camaras_vigilancia.md)*
+*← [06 — ¿Puede hackearse un estadio?](06_hackear_estadio.md) · siguiente → [08 — ¿Cuántas cámaras te observan durante un partido?](08_camaras_vigilancia.md) · [índice](../../README.md)*
 
 ---
 
