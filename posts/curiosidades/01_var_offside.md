@@ -286,12 +286,11 @@ El primer flag correcto se lleva crédito en el README.
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- FIFA SAOT — [inside.fifa.com/innovation/world-cup-2022/semi-automated-offside-technology](https://inside.fifa.com/innovation/world-cup-2022/semi-automated-offside-technology)
-- Tracab SAOT FIFA Certified — [sportsvideo.org](https://www.sportsvideo.org/2024/06/17/tracab-semi-automated-offside-technology-awarded-fifa-certification/)
-- OpenPose — Carnegie Mellon University, Cao et al., 2017
-- MediaPipe Pose — Google Research, 2019
-- Offside Detection RIT — [arxiv.org/abs/2502.16030](https://arxiv.org/abs/2502.16030)
-- UEFA EURO 2024 Technology — [uefa.com](https://www.uefa.com/news-media/news/028d-1ada99d5c45d-aa9eb88fcf73-1000--football-technologies-at-uefa-euro-2024/)
+- FIFA — [Tecnología semiautomatizada para la detección del fuera de juego](https://inside.fifa.com/es/innovation/world-cup-2022/semi-automated-offside-technology) (12 cámaras, hasta 29 puntos, 50 fps y sensor del balón a 500 Hz).
+- IFAB — [Regla 11: El fuera de juego](https://www.theifab.com/laws/latest/offside/).
+- FIFA — [Tecnología del balón conectado](https://inside.fifa.com/innovation/innovating-the-game/connected-ball-technology).
+- UEFA — [Tecnologías utilizadas en la EURO 2024](https://www.uefa.com/news-media/news/028d-1ada99d5c45d-aa9eb88fcf73-1000--football-technologies-at-uefa-euro-2024/).
+- OpenPose — [Cao et al., Realtime Multi-Person 2D Pose Estimation](https://arxiv.org/abs/1812.08008) (referencia académica; no implica que FIFA use esta arquitectura).
 
 </details>
 
