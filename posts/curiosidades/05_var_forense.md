@@ -89,8 +89,9 @@ def preservar_evidencia(sistema_comprometido):
 # VAR:
 def preservar_jugada(timestamp_alerta):
     video = obtener_feeds_camaras(timestamp_alerta)
-    # el video es inmutable — nadie puede editarlo
-    # el análisis se hace sobre esa copia
+    # no asumir que el archivo es inmutable
+    # preservar el original, registrar su origen y calcular hashes
+    # analizar una copia de trabajo y documentar cada transformación
     return video
 ```
 
@@ -139,10 +140,7 @@ En el VAR, la investigación ocurre **dentro** del partido.
 El juego se pausa. 80,000 personas esperan.  
 El tiempo de respuesta no es solo técnico — es político.
 
-Por eso el SAOT redujo el tiempo promedio de decisión de 70 segundos a 23.  
-No solo porque sea más preciso.  
-Sino porque 70 segundos de silencio en un estadio lleno  
-es una crisis de percepción pública que ninguna institución quiere repetir.
+La automatización parcial puede reducir el tiempo necesario para localizar el momento del contacto y generar una visualización. Eso no convierte todas las revisiones en un proceso instantáneo: siguen existiendo validación humana, contexto de juego y decisiones interpretativas.
 
 ```
 tiempo_decision_var_manual  = 70   # segundos — promedio pre-SAOT
