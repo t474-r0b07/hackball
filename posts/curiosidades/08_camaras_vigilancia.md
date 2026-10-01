@@ -283,7 +283,7 @@ Es un activo esperando ser comprometido.
 
 ---
 
-*← [07 — Las apuestas son datos](07_apuestas_datos.md) · siguiente → [09 — El mejor sistema defensivo](09_defensa_capas.md)*
+*← [07 — Las apuestas son datos](07_apuestas_datos.md) · siguiente → [09 — El mejor sistema defensivo](09_defensa_capas.md) · [índice](../../README.md)*
 
 ---
 
