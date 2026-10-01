@@ -259,7 +259,7 @@ Solo cambia de contexto.
 
 ---
 
-*← [02 — El balón también tiene sensores](02_balon_sensores.md) · siguiente → [04 — La cámara del árbitro](04_camara_arbitro.md)*
+*← [02 — El balón también tiene sensores](02_balon_sensores.md) · siguiente → [04 — La cámara del árbitro](04_camara_arbitro.md) · [índice](../../README.md)*
 
 ---
 
