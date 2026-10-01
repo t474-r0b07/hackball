@@ -34,8 +34,7 @@ Y ese perfil vale más que lo que apostaste.
 
 ## El negocio real
 
-La industria de apuestas deportivas generó **$95 mil millones** en 2024.  
-Se proyecta que llegue a **$182 mil millones** para 2030.
+Las estimaciones del tamaño del mercado varían según qué actividades, países y canales incluya cada informe. Sin una metodología comparable y una fuente primaria enlazada, no doy aquí una cifra global.
 
 El modelo de negocio superficial es simple: la casa siempre gana.  
 El margen está en los odds — el precio está calculado para que el operador gane a largo plazo.
@@ -44,7 +43,7 @@ Pero hay un segundo modelo de negocio que no aparece en los titulares:
 
 **Los datos.**
 
-Cada plataforma de apuestas es, técnicamente, una empresa de análisis de comportamiento humano que usa el fútbol como pretexto para recopilar datos.
+Las plataformas de apuestas registran actividad transaccional y de uso para operar sus servicios. El tipo de datos, el nivel de perfilado y sus usos dependen de cada operador y de su marco regulatorio.
 
 ```python
 # Lo que el usuario cree que está haciendo:
@@ -65,9 +64,9 @@ accion_plataforma = {
 
 ## Cómo funciona el perfil
 
-Las plataformas usan **machine learning** para construir perfiles en tiempo real.
+Algunas plataformas pueden utilizar analítica estadística o modelos automatizados para segmentar actividad y gestionar riesgos. No debe asumirse que todos los operadores usan machine learning, ni que lo hacen en tiempo real.
 
-Tres modelos principales:
+Tres familias de técnicas que pueden aparecer en análisis de comportamiento (los ejemplos siguientes son ilustrativos, no una lista universal de modelos desplegados por operadores):
 
 ### 1. Segmentación por comportamiento
 
@@ -234,12 +233,11 @@ Respuesta → issues del repo · título: [HACKBALL-07]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- Tamaño del mercado de apuestas deportivas — retirar cifras hasta enlazar un informe con definición de mercado, moneda, cobertura geográfica y metodología
-- ML en detección de ludopatía — PMC / NIH, 2024
-- Dark patterns en plataformas de apuestas — Newall et al., 2020
-- UEBA framework — Gartner, 2023
-- Behavioral biometrics en apuestas — Software Mind, 2026
-- K-Means clustering aplicado a perfiles de apostadores — ResearchGate, 2024
+- Gambling Commission (Reino Unido) — [2024 Gambling Survey for Great Britain](https://www.gamblingcommission.gov.uk/news/article/2024-gambling-survey-for-great-britain) (participación y consecuencias del juego; no mide el mercado mundial).
+- Gambling Commission — [Research and statistics](https://www.gamblingcommission.gov.uk/statistics-and-research) (datos y estudios oficiales del regulador británico).
+- Newall et al. — [Investigación sobre diseño de productos y riesgos del juego](https://scholar.google.com/scholar?q=Newall+dark+patterns+gambling+2020) (referencia para localizar el trabajo académico citado; no prueba que todas las plataformas utilicen los mismos modelos).
+- Los importes globales de mercado se omiten hasta disponer de una fuente con metodología, moneda, cobertura geográfica y definición de “apuestas deportivas”.
+- Los ejemplos de clustering y scoring del artículo son esquemas ilustrativos, no una descripción verificada del funcionamiento interno de operadores concretos.
 
 </details>
 
