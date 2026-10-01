@@ -24,7 +24,7 @@ No automatizaron el criterio.
 
 ---
 
-*← [MITO 01](01_ia_predice.md) · siguiente → [MITO 03](03_ojeadores.md)*
+*← [MITO 01](01_ia_predice.md) · siguiente → [MITO 03](03_ojeadores.md) · [índice](../../README.md)*
 
 > *t474_r0b07 · [github.com/t474-r0b07](https://github.com/t474-r0b07)*  
 > `// construyo sistemas pensando en cómo romperlos.`
