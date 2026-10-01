@@ -37,13 +37,9 @@ Y es exactamente el mismo problema que resuelve el análisis forense digital.
 
 ## Cómo funciona
 
-La cámara va montada en el **oído derecho** del árbitro — no en el pecho.
+En algunas configuraciones de cámara POV para árbitros, el dispositivo se integra cerca de la oreja o la cabeza para aproximarse a la dirección de la mirada. La ubicación exacta puede variar según el equipo y la prueba; no doy por documentado que FIFA haya comparado formalmente todas las posiciones ni que exista una única configuración universal.
 
-FIFA probó varias posiciones. Cámara de pecho, cámara en el hombro, cámara en la cabeza.  
-El oído ganó por una razón técnica específica:
-
-Cuando el árbitro gira la cabeza para seguir la jugada, la cámara gira con él.  
-Una cámara de pecho apunta siempre al frente — no captura hacia dónde está mirando realmente.
+La ventaja conceptual de una cámara solidaria con la cabeza es que acompaña sus giros. Una cámara fijada al pecho, en cambio, registra la orientación del torso, que no siempre coincide con la mirada.
 
 ```
 CÁMARA DE PECHO:              CÁMARA EN OÍDO:
