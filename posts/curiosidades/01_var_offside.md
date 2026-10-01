@@ -145,7 +145,7 @@ keypoint_position = argmax(confidence_map[k])
 
 FIFA no publica el código ni todos los detalles de implementación. OpenPose y MediaPipe sirven aquí como referencias didácticas de pose estimation; no hay base para afirmar que SAOT use esas arquitecturas o que sus puntos sean directamente comparables.
 
-La diferencia entre 25 y 29 puntos no es menor: esos 4 puntos extra son extremidades específicas que determinan si el hombro de un delantero está o no en offside por 2 centímetros.
+La diferencia entre los conjuntos de puntos de distintos modelos no debe interpretarse como una mejora directa de precisión: las definiciones y los objetivos de cada sistema pueden ser distintos.
 
 ---
 
@@ -222,8 +222,8 @@ offside = punto_adelantado > linea_offside
 # offside = 52.8 > 51.1 = True
 # Diferencia: 1.7 metros. Caso claro.
 
-# En casos límite la diferencia puede ser < 0.03m (3 cm)
-# Para eso existen los 29 keypoints y el IMU de 500Hz
+# En casos límite, el margen puede ser pequeño.
+# La cifra de 3 cm no se presenta aquí como precisión certificada del sistema.
 ```
 
 Cuando el sistema detecta offside, genera automáticamente:
@@ -255,7 +255,7 @@ No puede resolver por sí solo todas las cuestiones de **participación e interf
 
 ## La pregunta que queda abierta
 
-Si el sistema puede determinar con 3 cm de precisión la posición de cada extremidad de cada jugador, en tiempo real, 50 veces por segundo...
+Si el sistema puede estimar la posición de cada extremidad de cada jugador, en tiempo real y con suficiente precisión para asistir al árbitro...
 
 ¿Cuánto tiempo falta para que el propio sistema tome la decisión final sin intervención humana?
 
