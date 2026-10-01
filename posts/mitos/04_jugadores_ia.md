@@ -27,7 +27,7 @@ Por ahora.
 
 ---
 
-*← [MITO 03](03_ojeadores.md) · siguiente → [MITO 05](05_incertidumbre.md)*
+*← [MITO 03](03_ojeadores.md) · siguiente → [MITO 05](05_incertidumbre.md) · [índice](../../README.md)*
 
 > *t474_r0b07 · [github.com/t474-r0b07](https://github.com/t474-r0b07)*  
 > `// construyo sistemas pensando en cómo romperlos.`
