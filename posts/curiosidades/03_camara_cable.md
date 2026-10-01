@@ -226,11 +226,10 @@ Respuesta → issues del repo · título: [HACKBALL-03]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- Spidercam — [Wikipedia](https://en.wikipedia.org/wiki/Spidercam)
-- Inverse Kinematics for SpiderCam — [marginallyclever.com](https://www.marginallyclever.com/2015/02/code-inverse-kinematics-spidercam-skycam/)
-- PID Controller — Ziegler-Nichols tuning method, 1942
-- Cable-Driven Parallel Robots — Springer, 2022
-- FAST Telescope — NAOC China, 500m aperture
+- Spidercam — [sitio oficial del sistema de cámara por cables](https://www.spidercam.tv/).
+- Marginally Clever — [Cinemática inversa para SpiderCam / SkyCam](https://www.marginallyclever.com/2015/02/code-inverse-kinematics-spidercam-skycam/) (ejemplo didáctico, no documentación del firmware comercial).
+- Cable-driven parallel robots — [introducción académica y bibliografía del campo](https://link.springer.com/search?query=cable-driven+parallel+robots).
+- PID control — [documentación de referencia de controladores PID, NI](https://www.ni.com/en/shop/labview/pid-theory-explained.html).
 
 </details>
 
