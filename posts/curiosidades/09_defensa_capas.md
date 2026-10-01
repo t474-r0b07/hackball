@@ -323,7 +323,7 @@ La defensa suficientemente costosa de atravesar, sí.
 
 ---
 
-*← [08 — ¿Cuántas cámaras te observan?](08_camaras_vigilancia.md) · siguiente → [10 — Delantero y pentester](10_delantero_pentester.md)*
+*← [08 — ¿Cuántas cámaras te observan?](08_camaras_vigilancia.md) · siguiente → [10 — Delantero y pentester](10_delantero_pentester.md) · [índice](../../README.md)*
 
 ---
 
