@@ -276,12 +276,11 @@ Respuesta → issues del repo · título: [HACKBALL-09]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- Defense in Depth — NSA Information Assurance, 1990s
-- Defense in depth military origin — Wikipedia, Byzantine military
-- Battle of Cowpens — American Revolutionary War, 1781
-- NIST definition DiD — SP 800-53
-- Single Point of Failure — IEEE reliability engineering
-- Palo Alto Networks — Defense in Depth cyberpedia, 2025
+- NIST — [SP 800-53 Rev. 5: Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) (catálogo de controles; el artículo usa “defensa en profundidad” como marco explicativo).
+- CISA — [Defense in Depth](https://www.cisa.gov/news-events/news/defense-depth) (principio de protección mediante capas).
+- Palo Alto Networks — [Defense in Depth](https://www.paloaltonetworks.com/cyberpedia/what-is-defense-in-depth) (explicación introductoria).
+- Encyclopaedia Britannica — [Battle of Cowpens](https://www.britannica.com/event/Battle-of-Cowpens) (contexto histórico de la batalla citada).
+- UEFA — [Historia y archivos de la competición europea](https://www.uefa.com/uefachampionsleague/history/) (contexto para los títulos europeos del Inter; la conexión con catenaccio es una interpretación táctica).
 
 </details>
 
@@ -292,8 +291,7 @@ Respuesta → issues del repo · título: [HACKBALL-09]
 
 **El sistema más defensivo de la historia del fútbol no era el más talentoso.**
 
-El *Catenaccio* italiano — literalmente "cerrojo" —  
-fue la filosofía defensiva dominante del fútbol europeo en los años 60 y 70.
+El *catenaccio* —término italiano asociado a la idea de “cerrojo”— fue una de las corrientes defensivas más influyentes del fútbol italiano y europeo de mediados del siglo XX.
 
 Cinco defensores. Libero detrás de la línea. Presión intensa.  
 El objetivo no era jugar bien — era hacer imposible que el rival jugara.
