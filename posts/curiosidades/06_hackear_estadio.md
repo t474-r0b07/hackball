@@ -69,15 +69,9 @@ Los informes de ciberseguridad sobre organizaciones deportivas advierten sobre e
 
 ### Inglaterra, 2020 — Ransomware en un club de fútbol
 
-Un club de la Premier League sufrió un ataque de ransomware que cifró casi todos sus dispositivos.
+En 2020, un club de fútbol inglés sufrió un ataque de ransomware que, según el informe sectorial del NCSC, afectó sistemas y operaciones del club.
 
-Resultado:
-- Cámaras de seguridad: **fuera de servicio**
-- Torniquetes de acceso: **fuera de servicio**
-- Sistema de email corporativo: **fuera de servicio**
-- El partido casi se cancela
-
-El vector de entrada: **credenciales comprometidas de un proveedor externo**.
+El caso fue citado por el NCSC como ejemplo del impacto que un incidente puede tener sobre las operaciones de una organización deportiva. Para no exagerar los efectos ni atribuir un vector no documentado en la fuente pública, no detallo aquí sistemas concretos ni afirmo que el partido estuviera a punto de cancelarse.
 
 No hackearon el estadio directamente.  
 Hackearon a alguien que tenía acceso al estadio.
@@ -237,12 +231,12 @@ Respuesta → issues del repo · título: [HACKBALL-06]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- NCSC UK — guías y alertas de ciberseguridad para organizaciones deportivas.
-- Olympic Destroyer analysis — Recorded Future / Kaspersky, 2018
-- English football club ransomware — NCSC UK, 2020
-- Ticketmaster breach 2024 — 1.6TB stolen via third-party vendor
-- Los datos específicos de proveedores y superficies de ataque deben citarse con el informe original y su fecha.
-- OT & IoT Cybersecurity for Stadiums & Arenas — ICS-CERT
+- NCSC (Reino Unido) — [The cyber threat to sports organisations](https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations) (informe sectorial publicado en 2020).
+- Recorded Future — [Targeting of Olympic Games IT Infrastructure Remains Unattributed](https://www.recordedfuture.com/research/olympic-destroyer-malware) (advierte que la atribución no quedó resuelta).
+- Kaspersky Securelist — [Olympic Destroyer: análisis de la falsa huella de Lazarus](https://securelist.com/kaspersky-security-bulletin-2018-top-security-stories/89118/) (presenta la evaluación de sus investigadores y sus límites).
+- NCSC — [Guía de ciberseguridad para organizaciones deportivas](https://www.ncsc.gov.uk/collection/board-toolkit) (orientación general; no es evidencia de un incidente concreto).
+- FIFA — [Ciudades anfitrionas de la Copa Mundial 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/watch-host-cities-2026-world-cup-video) (16 ciudades en tres países).
+- Las cifras sobre proveedores, CCTV o incidentes de clubes deben vincularse a la noticia o informe original que documente cada caso; no se infieren del informe sectorial general.
 
 </details>
 
