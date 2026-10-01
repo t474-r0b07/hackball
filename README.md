@@ -111,6 +111,10 @@ Nadie te lo explica porque nadie lo ve.
   </tr>
 </table>
 
+### ⚡ Mitos
+
+- [MITO 02 — El VAR es totalmente automático](posts/mitos/02_var_automatico.md)
+
 <br>
 
 ---
@@ -124,7 +128,7 @@ hackball/
 │   ├── curiosidades/   → 🔴 técnicas. una por día.
 │   ├── mitos/          → ⚡ cortos. demoledores. sin hype.
 │   └── lore/           → 🟣 profundo. historia real detrás de cada sistema.
-├── challenges/         → 🟡 retos embebidos. no todos son obvios.
+├── (challenges)          → 🟡 retos integrados al final de algunos artículos.
 └── assets/
     └── banners/
 ```
@@ -136,7 +140,7 @@ hackball/
 
 ## `> whoami`
 
-**t474_r0b07** — red teamer en formación. dev. Bolivia. 🇧🇴
+**t474_r0b07** — desarrollador y estudiante de ciberseguridad. Bolivia. 🇧🇴
 
 Construyo sistemas pensando en cómo romperlos.
 
