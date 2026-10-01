@@ -42,11 +42,9 @@ pero que todos, simultáneamente, saben que estás ahí.
 
 ---
 
-## El Mundial 2026 — el experimento más grande de la historia
+## El Mundial 2026 — vigilancia y preguntas de gobernanza
 
-Vancouver instaló **200 cámaras temporales** como requisito de FIFA  
-en zonas de actividad relacionada con el Mundial —  
-estadio, fan zones, sitios de entrenamiento.
+La organización de un torneo multinacional puede ampliar el uso de videovigilancia en estadios, fan zones, transporte y espacios de entrenamiento. No presento como hecho confirmado la cifra de **200 cámaras temporales en Vancouver** ni que esa instalación haya sido un requisito de FIFA: la referencia citada no está enlazada y necesita verificación primaria.
 
 Durante los Juegos Olímpicos de Invierno de 2010 en la misma ciudad  
 se activaron **casi 1,000 cámaras de seguridad**.  
@@ -91,10 +89,7 @@ Qatar 2022 fue el campo de prueba masivo —
 el sistema **Hayya** de Fan ID biométrico procesó la identidad de cada asistente  
 como condición de entrada al país.
 
-Para el Mundial 2026, FIFA y los tres países anfitriones están implementando  
-un **Digital Fan ID unificado** con coordinación biométrica transfronteriza:  
-una vez que tus datos están en el sistema,  
-funcionan en los 16 estadios de los 3 países.
+No afirmo que exista un **Digital Fan ID unificado** con intercambio biométrico transfronterizo entre los tres países. Para sostener esa afirmación haría falta documentación oficial que describa el sistema, sus responsables, los datos compartidos y su alcance.
 
 El reconocimiento facial ya no solo verifica que eres quien dices ser.  
 Analiza comportamiento de multitudes en tiempo real:  
@@ -137,8 +132,7 @@ Cada cámara es un nodo de procesamiento independiente.
 Los 16 estadios generan un flujo unificado de datos  
 que el comité organizador puede ver en tiempo real.
 
-Para el Mundial 2026 eso son **6 millones de fans**  
-procesados por ese sistema a lo largo del torneo.
+Las estimaciones de asistencia o de personas usuarias no equivalen al número de individuos cuyos datos biométricos procesa un sistema. No mantengo la cifra de **6 millones** como dato de procesamiento sin una fuente oficial específica.
 
 ---
 
@@ -253,9 +247,9 @@ Respuesta → issues del repo · título: [HACKBALL-08]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- Vancouver CCTV Mundial 2026 — CBC News, diciembre 2025
+- Vancouver CCTV Mundial 2026 — añadir enlace directo a la nota de CBC y comprobar que respalde la cifra y el vínculo con FIFA
 - Seattle CCTV debate — KOMO News, mayo-junio 2026
-- Biometrics en estadios Mundial 2026 — The Costa Rica News, junio 2026
+- Biométricos en estadios Mundial 2026 — añadir fuente primaria que documente el sistema y el intercambio de datos antes de presentarlo como hecho
 - FIFA Digital Fan ID — inside.fifa.com
 - AI video analytics en estadios — Intellisee, junio 2026
 - OPSEC framework — NSA Operations Security guidelines
