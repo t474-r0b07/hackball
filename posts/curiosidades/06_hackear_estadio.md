@@ -235,7 +235,6 @@ Respuesta → issues del repo · título: [HACKBALL-06]
 - NCSC (Reino Unido) — [The cyber threat to sports organisations](https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations) (informe sectorial publicado en 2020).
 - Recorded Future — [Targeting of Olympic Games IT Infrastructure Remains Unattributed](https://www.recordedfuture.com/research/olympic-destroyer-malware) (advierte que la atribución no quedó resuelta).
 - Kaspersky Securelist — [Olympic Destroyer: análisis de la falsa huella de Lazarus](https://securelist.com/kaspersky-security-bulletin-2018-top-security-stories/89118/) (presenta la evaluación de sus investigadores y sus límites).
-- NCSC — [Guía de ciberseguridad para organizaciones deportivas](https://www.ncsc.gov.uk/collection/board-toolkit) (orientación general; no es evidencia de un incidente concreto).
 - FIFA — [Ciudades anfitrionas de la Copa Mundial 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/watch-host-cities-2026-world-cup-video) (16 ciudades en tres países).
 - Las cifras sobre proveedores, CCTV o incidentes de clubes deben vincularse a la noticia o informe original que documente cada caso; no se infieren del informe sectorial general.
 
