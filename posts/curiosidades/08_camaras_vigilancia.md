@@ -21,16 +21,15 @@ apareciste en más sistemas de los que puedes contar.
 ```
 FUENTE                        QUIÉN LA OPERA          TÚ CONSIENTES
 ──────────────────────────────────────────────────────────────────────
-Torniquete biométrico         FIFA / club             ✓ (ticket digital)
-CCTV interior del estadio     club / seguridad        implícito
-CCTV exterior / accesos       ciudad / policía        implícito
-Cámaras de transmisión        broadcaster             implícito
-Reconocimiento facial         seguridad privada       implícito / dudoso
-Cámara del árbitro            FIFA                    implícito
-Teléfonos de otros fans       desconocidos            sin consentimiento
-Prensa acreditada             medios                  implícito
-Drones de seguridad           autoridades             implícito
-Sistema de análisis de masas  FIFA / ciudad            enterrado en T&C
+CCTV interior/exterior       club / ciudad            depende del aviso y la ley
+Cámaras de transmisión        broadcaster              reglas del evento y emisión
+Cámara POV del árbitro        FIFA / producción        uso confirmado en pruebas FIFA
+Teléfonos de otros fans       asistentes               depende de la captura y publicación
+Prensa acreditada             medios                   reglas de acreditación
+Reconocimiento facial         operador correspondiente solo si está desplegado
+Drones de seguridad           autoridad/operador       solo si se utilizan
+Analítica de multitudes       operador correspondiente requiere confirmación
+Torniquetes biométricos       operador correspondiente no asumir su presencia
 ```
 
 Cada fila es un sistema distinto.  
@@ -247,13 +246,11 @@ Respuesta → issues del repo · título: [HACKBALL-08]
 <details>
 <summary><code>// referencias técnicas</code></summary>
 
-- La cifra de cámaras temporales en Vancouver se retiró al no contar con una fuente primaria enlazada.
-- Seattle CCTV debate — KOMO News, mayo-junio 2026
-- No se afirma un sistema biométrico transfronterizo unificado sin documentación oficial que lo respalde.
-- FIFA Digital Fan ID — inside.fifa.com
-- AI video analytics en estadios — Intellisee, junio 2026
-- OPSEC framework — NSA Operations Security guidelines
-- Hayya Fan ID Qatar 2022 — FIFA official documentation
+- FIFA — [Ciudades anfitrionas de la Copa Mundial 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/watch-host-cities-2026-world-cup-video) (organización en 16 ciudades y tres países).
+- FIFA — [Pierluigi Collina sobre las cámaras corporales de árbitros](https://inside.fifa.com/refereeing/news/pierluigi-collina-interview-ref-cam-club-world-cup-2025) (uso confirmado de cámaras POV en la competición de 2025).
+- Information Commissioner's Office (Reino Unido) — [Video surveillance guidance](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/).
+- FIFA — [Hayya / Fan ID en Qatar 2022: información oficial del torneo](https://www.fifa.com/tournaments/mens/worldcup/qatar2022) (no demuestra que exista un sistema biométrico unificado para 2026).
+- Las cifras de cámaras de Vancouver y las afirmaciones sobre reconocimiento facial, biometría o intercambio transfronterizo se excluyen como hechos hasta contar con documentos oficiales específicos.
 
 </details>
 
